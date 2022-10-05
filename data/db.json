@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Prajwal DC",
+      "email": "prajwal.dc38@gmail.com",
+      "address": "Kathmandu",
+      "number": "9841351500",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Prajwal KC",
+      "email": "prajwal38@gmail.com",
+      "address": "Sanga",
+      "number": "9856373872",
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "name": "Prajwal GC",
+      "email": "prajwalgc@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Prajwal karki",
+      "email": "prajwalkarki@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "name": "Abhi",
+      "email": "abhi@gmail.com",
+      "address": "Dang",
+      "number": "6666666666",
+      "id": 8,
+      "status": "Active"
+    },
+    {
+      "name": "Chotey",
+      "email": "cho@gmail.com",
+      "address": "Dang",
+      "number": "666666666666",
+      "id": 9,
+      "status": "Inactive"
+    },
+    {
+      "name": "Sampat",
+      "email": "sam@gmail.com",
+      "address": "Buspark",
+      "number": "696969696969",
+      "id": 10,
+      "status": "Inactive"
+    },
+    {
+      "name": "Nima",
+      "email": "ni@gmail.com",
+      "address": "Dhadhing",
+      "number": "584839202",
+      "id": 11,
+      "status": "Active"
+    },
+    {
+      "name": "Sammy",
+      "email": "yo@gmail.com",
+      "address": "dhapashi",
+      "number": "87646907",
+      "status": "Active",
+      "id": 12
+    },
+    {
+      "name": "Anwesh",
+      "email": "an@gmail.com",
+      "address": "Koteshwor",
+      "number": "9856476535",
+      "status": "Inactive",
+      "id": 13
+    }
+  ]
+}
